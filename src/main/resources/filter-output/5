@@ -1,0 +1,606 @@
+Movie{name=Matchstick Men (2003), genres=Set(Comedy, Crime, Drama)}
+Movie{name=Dummy (2002), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Lost in Translation (2003), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Millennium Actress (Sennen joyû) (2001), genres=Set(Animation, Drama, Romance)}
+Movie{name=Once Upon a Time in China (Wong Fei Hung) (1991), genres=Set(Action, Adventure, Drama)}
+Movie{name=Paper Moon (1973), genres=Set(Comedy, Crime, Drama)}
+Movie{name=Ugly American, The (1963), genres=Set(Drama)}
+Movie{name=Convoy (1978), genres=Set(Action, Comedy, Drama)}
+Movie{name=Rose, The (1979), genres=Set(Drama)}
+Movie{name=Cold Creek Manor (2003), genres=Set(Drama, Thriller)}
+Movie{name=Secondhand Lions (2003), genres=Set(Children, Comedy, Drama)}
+Movie{name=Demonlover (2002), genres=Set(Crime, Drama, Mystery, Thriller)}
+Movie{name=In This World (2002), genres=Set(Adventure, Drama)}
+Movie{name=Yossi & Jagger (2002), genres=Set(Drama, Romance)}
+Movie{name=Under the Tuscan Sun (2003), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Luther (2003), genres=Set(Drama)}
+Movie{name=My Life Without Me (2003), genres=Set(Drama, Romance)}
+Movie{name=Lagaan: Once Upon a Time in India (2001), genres=Set(Comedy, Drama, Musical, Romance)}
+Movie{name=Judgment at Nuremberg (1961), genres=Set(Drama)}
+Movie{name=Same Time, Next Year (1978), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Rules of the Game, The (La règle du jeu) (1939), genres=Set(Comedy, Drama)}
+Movie{name=Kiss of the Spider Woman (1985), genres=Set(Drama)}
+Movie{name=All the President's Men (1976), genres=Set(Drama, Thriller)}
+Movie{name=Angie (1994), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Avalon (2001), genres=Set(Drama, Fantasy, Sci-Fi)}
+Movie{name=Babette's Feast (Babettes gæstebud) (1987), genres=Set(Drama)}
+Movie{name=Beethoven (1992), genres=Set(Children, Comedy, Drama)}
+Movie{name=Boyz N the Hood (1991), genres=Set(Crime, Drama)}
+Movie{name=Bugsy (1991), genres=Set(Crime, Drama)}
+Movie{name=Sleeping with the Enemy (1991), genres=Set(Drama, Thriller)}
+Movie{name=Come and See (Idi i smotri) (1985), genres=Set(Drama, War)}
+Movie{name=Ginger Snaps (2000), genres=Set(Drama, Horror, Thriller)}
+Movie{name=Ballad of Little Jo, The (1993), genres=Set(Drama, Western)}
+Movie{name=Sunday in the Country, A (Un dimanche à la campagne) (1984), genres=Set(Drama)}
+Movie{name=Regarding Henry (1991), genres=Set(Drama)}
+Movie{name=Hospital, The (1971), genres=Set(Comedy, Drama)}
+Movie{name=Leap of Faith (1992), genres=Set(Comedy, Drama)}
+Movie{name=Gas, Food, Lodging (1992), genres=Set(Drama, Romance)}
+Movie{name=In Cold Blood (1967), genres=Set(Crime, Drama)}
+Movie{name=Yankee Doodle Dandy (1942), genres=Set(Drama, Musical)}
+Movie{name=Knife in the Water (Nóz w wodzie) (1962), genres=Set(Drama)}
+Movie{name=Out of Time (2003), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Station Agent, The (2003), genres=Set(Comedy, Drama)}
+Movie{name=Wonderland (2003), genres=Set(Crime, Drama, Mystery, Thriller)}
+Movie{name=Mystic River (2003), genres=Set(Crime, Drama, Mystery)}
+Movie{name=Dopamine (2003), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Runaway Jury (2003), genres=Set(Drama, Thriller)}
+Movie{name=Pieces of April (2003), genres=Set(Comedy, Drama)}
+Movie{name=Sylvia (2003), genres=Set(Drama, Romance)}
+Movie{name=Veronica Guerin (2003), genres=Set(Crime, Drama, Thriller)}
+Movie{name=In the Cut (2003), genres=Set(Thriller, Romance, Drama, Mystery, Crime)}
+Movie{name=Radio (2003), genres=Set(Drama)}
+Movie{name=Elephant (2003), genres=Set(Drama)}
+Movie{name=Singing Detective, The (2003), genres=Set(Comedy, Drama, Musical, Mystery)}
+Movie{name=Sweet Sixteen (2002), genres=Set(Drama)}
+Movie{name=Interstate 60 (2002), genres=Set(Thriller, Comedy, Fantasy, Drama, Mystery, Sci-Fi, Adventure)}
+Movie{name=That Was Then... This Is Now (1985), genres=Set(Drama)}
+Movie{name=Unvanquished, The (Aparajito) (1957), genres=Set(Drama)}
+Movie{name=Human Stain, The (2003), genres=Set(Drama, Romance, Thriller)}
+Movie{name=Shattered Glass (2003), genres=Set(Crime, Drama)}
+Movie{name=In My Skin (Dans ma Peau) (2002), genres=Set(Drama)}
+Movie{name=Love Actually (2003), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Master and Commander: The Far Side of the World (2003), genres=Set(Adventure, Drama, War)}
+Movie{name=21 Grams (2003), genres=Set(Thriller, Romance, Drama, Mystery, Crime)}
+Movie{name=Barbarian Invasions, The (Les invasions barbares) (2003), genres=Set(Comedy, Romance, Drama, Mystery, Crime)}
+Movie{name=Damage (Fatale) (1992), genres=Set(Drama)}
+Movie{name=Dance with a Stranger (1985), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Europa (Zentropa) (1991), genres=Set(Drama, Thriller)}
+Movie{name=Funny Games (1997), genres=Set(Drama, Horror, Thriller)}
+Movie{name=New Jack City (1991), genres=Set(Action, Crime, Drama)}
+Movie{name=Slacker (1991), genres=Set(Comedy, Drama)}
+Movie{name=WarGames (1983), genres=Set(Drama, Sci-Fi, Thriller)}
+Movie{name=Ordet (Word, The) (1955), genres=Set(Drama)}
+Movie{name=Forbidden Games (Jeux interdits) (1952), genres=Set(Drama, War)}
+Movie{name=Jane Eyre (1944), genres=Set(Drama, Romance)}
+Movie{name=Passion of Joan of Arc, The (Passion de Jeanne d'Arc, La) (1928), genres=Set(Drama)}
+Movie{name=Ben-Hur: A Tale of the Christ (1925), genres=Set(Adventure, Drama, Romance)}
+Movie{name=Gorky Park (1983), genres=Set(Crime, Drama, Thriller)}
+Movie{name=The Great Train Robbery (1978), genres=Set(Comedy, Drama, Adventure, Crime, Action)}
+Movie{name=Greystoke: The Legend of Tarzan, Lord of the Apes (1984), genres=Set(Adventure, Drama, Romance)}
+Movie{name=Guarding Tess (1994), genres=Set(Comedy, Drama)}
+Movie{name=Hannah and Her Sisters (1986), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Hoffa (1992), genres=Set(Crime, Drama)}
+Movie{name=Mindwalk (1990), genres=Set(Drama)}
+Movie{name=Kafka (1991), genres=Set(Thriller, Comedy, Drama, Mystery, Sci-Fi)}
+Movie{name=Last Boy Scout, The (1991), genres=Set(Thriller, Comedy, Drama, Crime, Action)}
+Movie{name=Last Tango in Paris (Ultimo tango a Parigi) (1972), genres=Set(Drama, Romance)}
+Movie{name=Lorenzo's Oil (1992), genres=Set(Drama)}
+Movie{name=Lover, The (Amant, L') (1992), genres=Set(Drama, Romance)}
+Movie{name=Bullfighter, The (Matador) (1986), genres=Set(Comedy, Crime, Drama)}
+Movie{name=Night of the Hunter, The (1955), genres=Set(Drama, Film-Noir, Thriller)}
+Movie{name=Over the Top (1987), genres=Set(Action, Drama)}
+Movie{name=Presumed Innocent (1990), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Proof (1991), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Battle Royale (Batoru rowaiaru) (2000), genres=Set(Action, Drama, Horror, Thriller)}
+Movie{name=Wedding Banquet, The (Xi yan) (1993), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Salo, or The 120 Days of Sodom (Salò o le 120 giornate di Sodoma) (1976), genres=Set(Drama)}
+Movie{name=Midnight Clear, A (1992), genres=Set(Drama, War)}
+Movie{name=Show Me Love (Fucking Åmål) (1998), genres=Set(Drama, Romance)}
+Movie{name=Things You Can Tell Just by Looking at Her (2000), genres=Set(Drama, Romance)}
+Movie{name=To Live and Die in L.A. (1985), genres=Set(Action, Crime, Drama, Thriller)}
+Movie{name=Betty Blue (37°2 le matin) (1986), genres=Set(Drama, Romance)}
+Movie{name=Vivre sa vie: Film en douze tableaux (My Life to Live) (1962), genres=Set(Drama)}
+Movie{name=Wild at Heart (1990), genres=Set(Thriller, Romance, Drama, Mystery, Crime)}
+Movie{name=Public Enemy, The (1931), genres=Set(Action, Crime, Drama)}
+Movie{name=National Velvet (1944), genres=Set(Children, Drama)}
+Movie{name=Jesus Christ Superstar (1973), genres=Set(Drama, Musical)}
+Movie{name=Dark Victory (1939), genres=Set(Drama, Romance)}
+Movie{name=Birdman of Alcatraz (1962), genres=Set(Drama)}
+Movie{name=Aguirre: The Wrath of God (Aguirre, der Zorn Gottes) (1972), genres=Set(Adventure, Drama)}
+Movie{name=Beauty and the Beast (La belle et la bête) (1946), genres=Set(Drama, Fantasy)}
+Movie{name=Birth of a Nation, The (1915), genres=Set(Drama, War)}
+Movie{name=Juliet of the Spirits (Giulietta degli spiriti) (1965), genres=Set(Comedy, Drama, Fantasy, Romance)}
+Movie{name=Last Year at Marienbad (L'Année dernière à Marienbad) (1961), genres=Set(Drama, Mystery, Romance)}
+Movie{name=Macbeth (a.k.a. Tragedy of Macbeth, The) (1971), genres=Set(Drama)}
+Movie{name=Woman Under the Influence, A (1974), genres=Set(Drama)}
+Movie{name=Stagecoach (1939), genres=Set(Action, Drama, Romance, Western)}
+Movie{name=Bullitt (1968), genres=Set(Action, Crime, Drama, Thriller)}
+Movie{name=Jezebel (1938), genres=Set(Drama)}
+Movie{name=Hunchback of Notre Dame, The (1939), genres=Set(Drama)}
+Movie{name=42nd Street (1933), genres=Set(Drama, Musical, Romance)}
+Movie{name=Sweet Dreams (1985), genres=Set(Drama)}
+Movie{name=Pygmalion (1938), genres=Set(Comedy, Drama)}
+Movie{name=Passage to India, A (1984), genres=Set(Adventure, Drama)}
+Movie{name=Black Orpheus (Orfeu Negro) (1959), genres=Set(Drama, Romance)}
+Movie{name=Amarcord (1973), genres=Set(Comedy, Drama)}
+Movie{name=Hero (Ying xiong) (2002), genres=Set(Action, Adventure, Drama)}
+Movie{name=Looking for Mr. Goodbar (1977), genres=Set(Drama)}
+Movie{name=Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984), genres=Set(Animation, Fantasy, Drama, Sci-Fi, Adventure)}
+Movie{name=Dragnet (1987), genres=Set(Comedy, Crime, Drama)}
+Movie{name=Crime Story (Zhong an zu) (1993), genres=Set(Action, Crime, Drama)}
+Movie{name=Blind Beast (Môjuu) (1969), genres=Set(Drama, Thriller)}
+Movie{name=Ryan's Daughter (1970), genres=Set(Drama, Romance)}
+Movie{name=King of Hearts (1966), genres=Set(Comedy, Drama, War)}
+Movie{name=Naked Lunch (1991), genres=Set(Drama, Fantasy, Mystery, Sci-Fi)}
+Movie{name=Spring Forward (1999), genres=Set(Drama)}
+Movie{name=Killing of a Chinese Bookie, The (1976), genres=Set(Comedy, Drama, Film-Noir, Musical, Crime)}
+Movie{name=Darling (1965), genres=Set(Drama)}
+Movie{name=Summer Place, A (1959), genres=Set(Drama)}
+Movie{name=Shoot the Piano Player (Tirez sur le pianiste) (1960), genres=Set(Crime, Drama, Romance, Thriller)}
+Movie{name=Stolen Kisses (Baisers volés) (1968), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Cooler, The (2003), genres=Set(Comedy, Drama, Romance)}
+Movie{name=In America (2002), genres=Set(Drama, Romance)}
+Movie{name=Honey (2003), genres=Set(Drama, Romance)}
+Movie{name=Last Samurai, The (2003), genres=Set(Action, Adventure, Drama, War)}
+Movie{name=Big Fish (2003), genres=Set(Drama, Fantasy, Romance)}
+Movie{name=Something's Gotta Give (2003), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Girl with a Pearl Earring (2003), genres=Set(Drama, Romance)}
+Movie{name=Statement, The (2003), genres=Set(Drama, Thriller)}
+Movie{name=Lord of the Rings: The Return of the King, The (2003), genres=Set(Action, Adventure, Drama, Fantasy)}
+Movie{name=Mona Lisa Smile (2003), genres=Set(Drama, Romance)}
+Movie{name=House of Sand and Fog (2003), genres=Set(Drama)}
+Movie{name=Monster (2003), genres=Set(Crime, Drama)}
+Movie{name=Cold Mountain (2003), genres=Set(Drama, Romance, War)}
+Movie{name=Company, The (2003), genres=Set(Drama, Musical)}
+Movie{name=Distant (Uzak) (2002), genres=Set(Drama)}
+Movie{name=Osama (2003), genres=Set(Drama)}
+Movie{name=Great Gatsby, The (1974), genres=Set(Drama)}
+Movie{name=Wuthering Heights (1992), genres=Set(Drama, Romance)}
+Movie{name=Odds Against Tomorrow (1959), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Jane Eyre (1970), genres=Set(Drama)}
+Movie{name=Enforcer, The (1951), genres=Set(Crime, Drama, Film-Noir)}
+Movie{name=Men, The (1950), genres=Set(Drama)}
+Movie{name=The Pick-up Artist (1987), genres=Set(Comedy, Crime, Drama, Romance)}
+Movie{name=Melvin Goes to Dinner (2003), genres=Set(Comedy, Drama)}
+Movie{name=Hells Angels on Wheels (1967), genres=Set(Drama)}
+Movie{name=Dr. Jekyll and Mr. Hyde (1941), genres=Set(Drama, Horror)}
+Movie{name=To Have and Have Not (1944), genres=Set(Thriller, War, Romance, Drama, Adventure)}
+Movie{name=High Sierra (1941), genres=Set(Crime, Drama, Film-Noir, Thriller)}
+Movie{name=Dark Passage (1947), genres=Set(Thriller, Romance, Drama, Film-Noir, Crime)}
+Movie{name=They Drive by Night (1940), genres=Set(Drama)}
+Movie{name=Reefer Madness (a.k.a. Tell Your Children) (1938), genres=Set(Comedy, Drama)}
+Movie{name=D.O.A. (1950), genres=Set(Drama, Film-Noir, Mystery)}
+Movie{name=Strada, La (1954), genres=Set(Drama)}
+Movie{name=Ichi the Killer (Koroshiya 1) (2001), genres=Set(Thriller, Horror, Comedy, Drama, Crime, Action)}
+Movie{name=Ashes and Diamonds (Popiól i diament) (1958), genres=Set(Drama, War)}
+Movie{name=Intolerance: Love's Struggle Throughout the Ages (1916), genres=Set(Drama)}
+Movie{name=Suriyothai (a.k.a. Legend of Suriyothai, The) (2001), genres=Set(Action, Adventure, Drama, War)}
+Movie{name=The Butterfly Effect (2004), genres=Set(Drama, Sci-Fi, Thriller)}
+Movie{name=Latter Days (2003), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Miracle (2004), genres=Set(Drama)}
+Movie{name=Dreamers, The (2003), genres=Set(Drama)}
+Movie{name=Super Fly (Superfly) (1972), genres=Set(Action, Crime, Drama)}
+Movie{name=Swing Shift (1984), genres=Set(Drama)}
+Movie{name=Thirteen (2003), genres=Set(Drama)}
+Movie{name=Monsieur Ibrahim (Monsieur Ibrahim et les fleurs du Coran) (2003), genres=Set(Drama)}
+Movie{name=Vanishing Point (1971), genres=Set(Action, Drama)}
+Movie{name=The Diary of Anne Frank (1959), genres=Set(Drama, War)}
+Movie{name=Black Widow (1987), genres=Set(Crime, Drama, Mystery, Thriller)}
+Movie{name=Flesh & Blood (1985), genres=Set(Action, Adventure, Drama, War)}
+Movie{name=Goodbye, Mr. Chips (1939), genres=Set(Drama, Romance)}
+Movie{name=Follow Me, Boys! (1966), genres=Set(Comedy, Drama)}
+Movie{name=Against the Ropes (2004), genres=Set(Comedy, Drama)}
+Movie{name=Passion of the Christ, The (2004), genres=Set(Drama)}
+Movie{name=Good bye, Lenin! (2003), genres=Set(Comedy, Drama)}
+Movie{name=Hidalgo (2004), genres=Set(Adventure, Drama)}
+Movie{name=Persona (1966), genres=Set(Drama)}
+Movie{name=Front, The (1976), genres=Set(Comedy, Drama)}
+Movie{name=Broken Wings (Knafayim Shvurot) (2002), genres=Set(Drama)}
+Movie{name=Wilbur Wants to Kill Himself (2002), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Mad Dog and Glory (1993), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Peyton Place (1957), genres=Set(Drama, Romance)}
+Movie{name=Dawn of the Dead (2004), genres=Set(Action, Drama, Horror, Thriller)}
+Movie{name=Eternal Sunshine of the Spotless Mind (2004), genres=Set(Drama, Romance, Sci-Fi)}
+Movie{name=Taking Lives (2004), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Jersey Girl (2004), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Dogville (2003), genres=Set(Drama, Mystery, Thriller)}
+Movie{name=Ned Kelly (2003), genres=Set(Drama)}
+Movie{name=The Alamo (2004), genres=Set(Drama, War, Western)}
+Movie{name=I'm Not Scared (Io non ho paura) (2003), genres=Set(Drama, Mystery, Thriller)}
+Movie{name=Ten Commandments, The (1956), genres=Set(Adventure, Drama)}
+Movie{name=Dawn of the Dead (1978), genres=Set(Action, Drama, Horror)}
+Movie{name=Cheaper by the Dozen (1950), genres=Set(Comedy, Drama)}
+Movie{name=Scenes From a Marriage (Scener ur ett äktenskap) (1973), genres=Set(Drama)}
+Movie{name=Late Show, The (1977), genres=Set(Comedy, Crime, Drama, Mystery)}
+Movie{name=Kill Bill: Vol. 2 (2004), genres=Set(Action, Drama, Thriller)}
+Movie{name=Man on Fire (2004), genres=Set(Thriller, Drama, Mystery, Crime, Action)}
+Movie{name=Godsend (2004), genres=Set(Drama, Horror, Thriller)}
+Movie{name=Valentin (Valentín) (2002), genres=Set(Drama)}
+Movie{name=Troy (2004), genres=Set(Action, Adventure, Drama, War)}
+Movie{name=Carandiru (2003), genres=Set(Crime, Drama)}
+Movie{name=Coffee and Cigarettes (2003), genres=Set(Comedy, Drama)}
+Movie{name=Swimming to Cambodia (1987), genres=Set(Drama)}
+Movie{name=Enemy Mine (1985), genres=Set(Adventure, Drama, Sci-Fi)}
+Movie{name=Henry & June (1990), genres=Set(Drama)}
+Movie{name=Martin (1977), genres=Set(Drama, Horror)}
+Movie{name=Three Faces of Eve, The (1957), genres=Set(Drama)}
+Movie{name=Band of Brothers (2001), genres=Set(Action, Drama, War)}
+Movie{name=Kingdom, The (Riget) (1994), genres=Set(Drama, Horror, Mystery)}
+Movie{name=Fail-Safe (1964), genres=Set(Drama, Thriller, War)}
+Movie{name=Blue Gardenia, The (1953), genres=Set(Crime, Drama, Film-Noir, Thriller)}
+Movie{name=Wit (2001), genres=Set(Drama)}
+Movie{name=Maborosi (Maboroshi no hikari) (1995), genres=Set(Drama)}
+Movie{name=Pride and Prejudice (1940), genres=Set(Comedy, Drama, Romance)}
+Movie{name=In This Our Life (1942), genres=Set(Drama)}
+Movie{name=Summertime (1955), genres=Set(Drama, Romance)}
+Movie{name=Soldier of Orange (a.k.a. Survival Run) (Soldaat van Oranje) (1977), genres=Set(Drama, Thriller, War)}
+Movie{name=Samouraï, Le (Godson, The) (1967), genres=Set(Crime, Drama, Thriller)}
+Movie{name=White Palace (1990), genres=Set(Drama)}
+Movie{name=Desert Hearts (1985), genres=Set(Drama)}
+Movie{name=Miracle Worker, The (1962), genres=Set(Drama)}
+Movie{name=Monster in a Box (1992), genres=Set(Comedy, Drama)}
+Movie{name=School Ties (1992), genres=Set(Drama)}
+Movie{name=Girl (1998), genres=Set(Drama)}
+Movie{name=Pride and Prejudice (1995), genres=Set(Drama, Romance)}
+Movie{name=China Syndrome, The (1979), genres=Set(Drama, Thriller)}
+Movie{name=Wages of Fear, The (Salaire de la peur, Le) (1953), genres=Set(Action, Adventure, Drama, Thriller)}
+Movie{name=Bells of St. Mary's, The (1945), genres=Set(Drama)}
+Movie{name=Cat People (1942), genres=Set(Drama, Horror, Romance, Thriller)}
+Movie{name=Camelot (1967), genres=Set(Drama, Musical, Romance)}
+Movie{name=Postman Always Rings Twice, The (1946), genres=Set(Crime, Drama, Film-Noir, Thriller)}
+Movie{name=That's The Way I Like It (a.k.a. Forever Fever) (1998), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Pierrot le fou (1965), genres=Set(Crime, Drama)}
+Movie{name=Tuesdays with Morrie (1999), genres=Set(Drama)}
+Movie{name=Nostalghia (1983), genres=Set(Drama)}
+Movie{name=Tinker, Tailor, Soldier, Spy (1979), genres=Set(Drama, Thriller)}
+Movie{name=Driller Killer, The (1979), genres=Set(Drama, Horror)}
+Movie{name=Throne of Blood (Kumonosu jô) (1957), genres=Set(Action, Drama, Thriller, War)}
+Movie{name=Best of Youth, The (La meglio gioventù) (2003), genres=Set(Drama)}
+Movie{name=Zorba the Greek (Alexis Zorbas) (1964), genres=Set(Adventure, Drama)}
+Movie{name=Bang, Bang, You're Dead (2002), genres=Set(Drama)}
+Movie{name=Sniper (1993), genres=Set(Action, Drama)}
+Movie{name=To Hell and Back (1955), genres=Set(Action, Drama, War)}
+Movie{name=11'09'01 - September 11 (2002), genres=Set(Drama)}
+Movie{name=Ambush (Rukajärven tie) (1999), genres=Set(Drama, Romance, War)}
+Movie{name=Babylon 5: The River of Souls (1998), genres=Set(Drama, Sci-Fi)}
+Movie{name=Babylon 5: Thirdspace (1998), genres=Set(Drama, Sci-Fi)}
+Movie{name=Virgin Spring, The (Jungfrukällan) (1960), genres=Set(Crime, Drama)}
+Movie{name=Mogambo (1953), genres=Set(Adventure, Drama, Romance)}
+Movie{name=Another Thin Man (1939), genres=Set(Comedy, Romance, Drama, Mystery, Crime)}
+Movie{name=Song of the Thin Man (1947), genres=Set(Comedy, Romance, Drama, Mystery, Musical, Crime)}
+Movie{name=Dune (2000), genres=Set(Drama, Fantasy, Sci-Fi)}
+Movie{name=Getting It Right (1989), genres=Set(Comedy, Drama)}
+Movie{name=I Walked with a Zombie (1943), genres=Set(Drama, Horror)}
+Movie{name=Bring Me the Head of Alfredo Garcia (1974), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Drunken Angel (Yoidore tenshi) (1948), genres=Set(Drama, Film-Noir)}
+Movie{name=Valachi Papers,The (1972), genres=Set(Crime, Drama)}
+Movie{name=Stray Dog (Nora inu) (1949), genres=Set(Drama, Film-Noir, Thriller)}
+Movie{name=High and Low (Tengoku to jigoku) (1963), genres=Set(Crime, Drama, Film-Noir, Thriller)}
+Movie{name=Face to Face (Ansikte mot ansikte) (1976), genres=Set(Drama, Fantasy, Horror, Mystery)}
+Movie{name=Shame (Skammen) (1968), genres=Set(Drama, War)}
+Movie{name=Winter Light (Nattvardsgästerna) (1963), genres=Set(Drama)}
+Movie{name=Through a Glass Darkly (Såsom i en spegel) (1961), genres=Set(Drama)}
+Movie{name=Summer with Monika (Sommaren med Monika) (1953), genres=Set(Drama, Romance)}
+Movie{name=Night of the Iguana, The (1964), genres=Set(Drama, Thriller)}
+Movie{name=Reflections in a Golden Eye (1967), genres=Set(Drama)}
+Movie{name=Under the Volcano (1984), genres=Set(Drama)}
+Movie{name=Wise Blood (1979), genres=Set(Comedy, Drama)}
+Movie{name=Bloody Mama (1970), genres=Set(Crime, Drama)}
+Movie{name=Trip, The (1967), genres=Set(Drama)}
+Movie{name=Ken Park (2002), genres=Set(Drama)}
+Movie{name=Bridge Too Far, A (1977), genres=Set(Action, Drama, War)}
+Movie{name=Infernal Affairs (Mou gaan dou) (2002), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Tale of Two Sisters, A (Janghwa, Hongryeon) (2003), genres=Set(Drama, Horror, Mystery, Thriller)}
+Movie{name=Wild Angels, The (1966), genres=Set(Action, Drama)}
+Movie{name=Bedlam (1946), genres=Set(Drama, Horror)}
+Movie{name=Marjorie Morningstar (1958), genres=Set(Drama)}
+Movie{name=Power of One, The (1992), genres=Set(Drama)}
+Movie{name=Kikujiro (Kikujirô no natsu) (1999), genres=Set(Comedy, Drama)}
+Movie{name=Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003), genres=Set(Drama)}
+Movie{name=Getaway, The (1972), genres=Set(Action, Crime, Drama, Thriller)}
+Movie{name=Dark Water (Honogurai mizu no soko kara) (2002), genres=Set(Drama, Horror, Mystery, Thriller)}
+Movie{name=Mean Streets (1973), genres=Set(Crime, Drama)}
+Movie{name=I Am a Fugitive from a Chain Gang (1932), genres=Set(Crime, Drama, Film-Noir)}
+Movie{name=Harper (1966), genres=Set(Crime, Drama, Mystery)}
+Movie{name=Sweet Bird of Youth (1962), genres=Set(Drama)}
+Movie{name=Grill Point (Halbe Treppe) (2002), genres=Set(Drama)}
+Movie{name=Shiri (Swiri) (1999), genres=Set(Action, Drama, Romance, Thriller)}
+Movie{name=Bad Day at Black Rock (1955), genres=Set(Drama, Thriller, Western)}
+Movie{name=Sammy and Rosie Get Laid (1987), genres=Set(Comedy, Drama)}
+Movie{name=Sunrise: A Song of Two Humans (1927), genres=Set(Drama, Romance)}
+Movie{name=Shock Corridor (1963), genres=Set(Drama)}
+Movie{name=Au revoir les enfants (1987), genres=Set(Drama)}
+Movie{name=Gladiator (1992), genres=Set(Action, Drama)}
+Movie{name=Inheritance, The (Arven) (2003), genres=Set(Drama)}
+Movie{name=Lola Montès (1955), genres=Set(Drama)}
+Movie{name=Charly (1968), genres=Set(Drama, Sci-Fi)}
+Movie{name=Dolce Vita, La (1960), genres=Set(Drama)}
+Movie{name=Rush (1991), genres=Set(Crime, Drama)}
+Movie{name=Educating Rita (1983), genres=Set(Comedy, Drama)}
+Movie{name=Sansho the Bailiff (Sanshô dayû) (1954), genres=Set(Drama)}
+Movie{name=Americanization of Emily, The (1964), genres=Set(Comedy, Drama, War)}
+Movie{name=Anne of the Thousand Days (1969), genres=Set(Drama)}
+Movie{name=Baby Doll (1956), genres=Set(Drama)}
+Movie{name=Avventura, L' (Adventure, The) (1960), genres=Set(Drama, Mystery, Romance)}
+Movie{name=Hiroshima Mon Amour (1959), genres=Set(Drama, Romance, War)}
+Movie{name=Ugetsu (Ugetsu monogatari) (1953), genres=Set(Drama, Thriller)}
+Movie{name=Razor's Edge, The (1946), genres=Set(Drama)}
+Movie{name=While the City Sleeps (1956), genres=Set(Drama, Film-Noir)}
+Movie{name=Viridiana (1961), genres=Set(Comedy, Drama)}
+Movie{name=Totally F***ed Up (1993), genres=Set(Drama)}
+Movie{name=Arizona Dream (1993), genres=Set(Comedy, Drama, Fantasy, Romance)}
+Movie{name=Queen Christina (1933), genres=Set(Drama, Romance)}
+Movie{name=Battleground (1949), genres=Set(Action, Drama, War)}
+Movie{name=3 Women (Three Women) (1977), genres=Set(Drama)}
+Movie{name=Purple Rain (1984), genres=Set(Drama, Musical)}
+Movie{name=Signs of Life (Lebenszeichen) (1968), genres=Set(Drama)}
+Movie{name=Tale of Ham and Passion, A (Jamón, Jamón) (1992), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Dolls (2002), genres=Set(Drama, Romance)}
+Movie{name=Sunday Bloody Sunday (1971), genres=Set(Drama)}
+Movie{name=Caine Mutiny, The (1954), genres=Set(Drama, War)}
+Movie{name=Black Narcissus (1947), genres=Set(Drama)}
+Movie{name=Escape from Alcatraz (1979), genres=Set(Drama, Thriller)}
+Movie{name=Oliver Twist (1948), genres=Set(Adventure, Crime, Drama)}
+Movie{name=Day After Tomorrow, The (2004), genres=Set(Thriller, Drama, Sci-Fi, Adventure, Action)}
+Movie{name=Raising Helen (2004), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Baadasssss! (How to Get the Man's Foot Outta Your Ass) (2003), genres=Set(Drama)}
+Movie{name=Saved! (2004), genres=Set(Comedy, Drama)}
+Movie{name=Time of the Wolf, The (Le temps du loup) (2003), genres=Set(Drama)}
+Movie{name=Blind Swordsman: Zatoichi, The (Zatôichi) (2003), genres=Set(Action, Comedy, Crime, Drama)}
+Movie{name=Ring of Bright Water (1969), genres=Set(Comedy, Drama)}
+Movie{name=Fool for Love (1985), genres=Set(Drama)}
+Movie{name=Helen of Troy (1956), genres=Set(War, Romance, Drama, Adventure, Action)}
+Movie{name=Suddenly (1954), genres=Set(Crime, Drama, Film-Noir)}
+Movie{name=Possessed (1947), genres=Set(Drama, Film-Noir)}
+Movie{name=Kings Row (1942), genres=Set(Drama, Romance)}
+Movie{name=Blackboard Jungle (1955), genres=Set(Drama)}
+Movie{name=Heiress, The (1949), genres=Set(Drama, Romance)}
+Movie{name=Executive Suite (1954), genres=Set(Drama)}
+Movie{name=Johnny Belinda (1948), genres=Set(Drama)}
+Movie{name=Super Size Me (2004), genres=Set(Comedy, Documentary, Drama)}
+Movie{name=Johnny Eager (1942), genres=Set(Crime, Drama, Film-Noir, Romance)}
+Movie{name=Picture of Dorian Gray, The (1945), genres=Set(Drama, Fantasy, Horror)}
+Movie{name=Human Condition I, The (Ningen no joken I) (1959), genres=Set(Drama, War)}
+Movie{name=Samsara (2001), genres=Set(Adventure, Drama, Romance)}
+Movie{name=White Heat (1949), genres=Set(Crime, Drama, Film-Noir)}
+Movie{name=Christmas Carol, A (Scrooge) (1951), genres=Set(Drama, Fantasy)}
+Movie{name=Memphis Belle (1990), genres=Set(Action, Drama, War)}
+Movie{name=Cincinnati Kid, The (1965), genres=Set(Drama)}
+Movie{name=Pretty Baby (1978), genres=Set(Drama)}
+Movie{name=Show Boat (1951), genres=Set(Drama, Musical, Romance)}
+Movie{name=Box of Moon Light (1996), genres=Set(Comedy, Drama)}
+Movie{name=Freaks (1932), genres=Set(Crime, Drama, Horror)}
+Movie{name=High and the Mighty, The (1954), genres=Set(Drama)}
+Movie{name=I'll Sleep When I'm Dead (2003), genres=Set(Crime, Drama)}
+Movie{name=Terminal, The (2004), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Dear Frankie (2004), genres=Set(Drama, Romance)}
+Movie{name=Notebook, The (2004), genres=Set(Drama, Romance)}
+Movie{name=Two Brothers (Deux frères) (2004), genres=Set(Adventure, Children, Drama)}
+Movie{name=De-Lovely (2004), genres=Set(Drama, Musical)}
+Movie{name=Bob & Carol & Ted & Alice (1969), genres=Set(Comedy, Drama)}
+Movie{name=Littlest Rebel, The (1935), genres=Set(Children, Drama)}
+Movie{name=Happenstance (Battement d'ailes du papillon, Le) (2001), genres=Set(Comedy, Drama)}
+Movie{name=Pirates of Silicon Valley (1999), genres=Set(Documentary, Drama)}
+Movie{name=Clock, The (1945), genres=Set(Adventure, Drama, Romance)}
+Movie{name=Leave Her to Heaven (1945), genres=Set(Drama, Film-Noir)}
+Movie{name=Winter War (Talvisota) (1989), genres=Set(Drama, War)}
+Movie{name=Philadelphia Experiment, The (1984), genres=Set(Adventure, Drama, Sci-Fi)}
+Movie{name=Angels with Dirty Faces (1938), genres=Set(Crime, Drama, Film-Noir, Thriller)}
+Movie{name=Tokyo Godfathers (2003), genres=Set(Adventure, Animation, Drama)}
+Movie{name=Lassie Come Home (1943), genres=Set(Adventure, Children, Drama)}
+Movie{name=Butterfield 8 (1960), genres=Set(Drama)}
+Movie{name=Johnny Guitar (1954), genres=Set(Drama, Western)}
+Movie{name=Exterminating Angel, The (Ángel exterminador, El) (1962), genres=Set(Comedy, Drama, Fantasy, Mystery)}
+Movie{name=Before Sunset (2004), genres=Set(Drama, Romance)}
+Movie{name=King Arthur (2004), genres=Set(Action, Adventure, Drama, War)}
+Movie{name=Maria Full of Grace (Maria, Llena eres de gracia) (2004), genres=Set(Crime, Drama)}
+Movie{name=Long Day's Journey Into Night (1962), genres=Set(Drama)}
+Movie{name=Short Film About Killing, A (Krótki film o zabijaniu) (1988), genres=Set(Crime, Drama)}
+Movie{name=How the West Was Won (1962), genres=Set(Adventure, Drama, Western)}
+Movie{name=A Home at the End of the World (2004), genres=Set(Drama, Romance)}
+Movie{name=Battle Hymn (1957), genres=Set(Drama)}
+Movie{name=Enemy Below, The (1957), genres=Set(Action, Drama, War)}
+Movie{name=Man Escaped, A (Un  condamné à mort s'est échappé ou Le vent souffle où il veut) (1956), genres=Set(Adventure, Drama)}
+Movie{name=Slaughterhouse-Five (1972), genres=Set(Comedy, Drama, Sci-Fi, War)}
+Movie{name=Dancing in September (2000), genres=Set(Drama)}
+Movie{name=Snake Pit, The (1948), genres=Set(Drama)}
+Movie{name=Leopard, The (Gattopardo, Il) (1963), genres=Set(Drama, War)}
+Movie{name=Goodbye, Columbus (1969), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Day of the Locust, The (1975), genres=Set(Drama)}
+Movie{name=To End All Wars (2001), genres=Set(Action, Drama, War)}
+Movie{name=World of Suzie Wong, The (1960), genres=Set(Drama, Romance)}
+Movie{name=Gun Crazy (a.k.a. Deadly Is the Female) (1949), genres=Set(Crime, Drama, Film-Noir)}
+Movie{name=Set-Up, The (1949), genres=Set(Drama, Film-Noir, Romance)}
+Movie{name=Prime of Miss Jean Brodie, The (1969), genres=Set(Drama)}
+Movie{name=Three Lives of Thomasina, The (1964), genres=Set(Children, Drama)}
+Movie{name=Black Angel (1946), genres=Set(Drama, Film-Noir, Mystery)}
+Movie{name=Criss Cross (1949), genres=Set(Crime, Drama, Film-Noir)}
+Movie{name=Spy Who Came in from the Cold, The (1965), genres=Set(Drama, Thriller)}
+Movie{name=Roadkill (a.k.a. Roadkill: Move or Die) (1989), genres=Set(Drama)}
+Movie{name=Bon Voyage (2003), genres=Set(Comedy, Drama)}
+Movie{name=Village, The (2004), genres=Set(Drama, Mystery, Thriller)}
+Movie{name=Garden State (2004), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Early Summer (Bakushû) (1951), genres=Set(Drama)}
+Movie{name=Musa the Warrior (Musa) (2001), genres=Set(Action, Adventure, Drama, War)}
+Movie{name=Collateral (2004), genres=Set(Action, Crime, Drama, Thriller)}
+Movie{name=We Don't Live Here Anymore (2004), genres=Set(Drama)}
+Movie{name=Dead Ringer (1964), genres=Set(Drama, Thriller)}
+Movie{name=Anacondas: The Hunt for the Blood Orchid (2004), genres=Set(Thriller, Horror, Drama, Sci-Fi, Adventure)}
+Movie{name=Warriors of Heaven and Earth (Tian di ying xiong) (2003), genres=Set(Action, Adventure, Drama)}
+Movie{name=Vanity Fair (2004), genres=Set(Drama, Romance)}
+Movie{name=Paparazzi (2004), genres=Set(Drama, Thriller)}
+Movie{name=Wicker Park (2004), genres=Set(Drama, Romance, Thriller)}
+Movie{name=Alice Doesn't Live Here Anymore (1974), genres=Set(Drama, Romance)}
+Movie{name=Who's That Knocking at My Door? (1967), genres=Set(Drama)}
+Movie{name=Vitelloni, I (a.k.a. The Young and the Passionate) (1953), genres=Set(Drama)}
+Movie{name=Flipper (1963), genres=Set(Adventure, Children, Drama)}
+Movie{name=Small Circle of Friends, A (1980), genres=Set(Drama)}
+Movie{name=Lilith (1964), genres=Set(Drama)}
+Movie{name=Cellular (2004), genres=Set(Thriller, Drama, Mystery, Crime, Action)}
+Movie{name=Mr. 3000 (2004), genres=Set(Comedy, Drama)}
+Movie{name=Forgotten, The (2004), genres=Set(Drama, Mystery, Sci-Fi, Thriller)}
+Movie{name=Motorcycle Diaries, The (Diarios de motocicleta) (2004), genres=Set(Adventure, Drama)}
+Movie{name=Mask (1985), genres=Set(Drama)}
+Movie{name=Boston Strangler, The (1968), genres=Set(Crime, Drama, Mystery, Thriller)}
+Movie{name=Hardcore (1979), genres=Set(Drama)}
+Movie{name=Ladder 49 (2004), genres=Set(Action, Drama, Thriller)}
+Movie{name=Primer (2004), genres=Set(Drama, Sci-Fi)}
+Movie{name=Stage Beauty (2004), genres=Set(Drama)}
+Movie{name=Eulogy (2004), genres=Set(Comedy, Crime, Drama)}
+Movie{name=Country Girl, The (1954), genres=Set(Drama)}
+Movie{name=Rose Tattoo, The (1955), genres=Set(Drama, Romance)}
+Movie{name=Tess (1979), genres=Set(Drama, Romance)}
+Movie{name=Cannonball (1976), genres=Set(Action, Comedy, Drama)}
+Movie{name=Black Beauty (1971), genres=Set(Children, Drama)}
+Movie{name=Decline of the American Empire, The (Déclin de l'empire américain, Le) (1986), genres=Set(Comedy, Drama)}
+Movie{name=Friday Night Lights (2004), genres=Set(Action, Drama)}
+Movie{name=Being Julia (2004), genres=Set(Comedy, Drama)}
+Movie{name=Alfie (2004), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Sideways (2004), genres=Set(Comedy, Drama, Romance)}
+Movie{name=The Machinist (2004), genres=Set(Drama, Mystery, Thriller)}
+Movie{name=Vera Drake (2004), genres=Set(Drama)}
+Movie{name=Undertow (2004), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Ray (2004), genres=Set(Drama)}
+Movie{name=It's All About Love (2003), genres=Set(Drama, Romance, Sci-Fi, Thriller)}
+Movie{name=Callas Forever (2002), genres=Set(Drama)}
+Movie{name=Kinsey (2004), genres=Set(Drama)}
+Movie{name=Bridget Jones: The Edge of Reason (2004), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Finding Neverland (2004), genres=Set(Drama)}
+Movie{name=National Treasure (2004), genres=Set(Thriller, Drama, Mystery, Adventure, Action)}
+Movie{name=Bad Education (La mala educación) (2004), genres=Set(Drama, Thriller)}
+Movie{name=Alexander (2004), genres=Set(Action, Adventure, Drama, War)}
+Movie{name=Closer (2004), genres=Set(Drama, Romance)}
+Movie{name=I Am David (2003), genres=Set(Drama)}
+Movie{name=House of Flying Daggers (Shi mian mai fu) (2004), genres=Set(Action, Drama, Romance)}
+Movie{name=Fire in the Sky (1993), genres=Set(Drama, Mystery, Sci-Fi)}
+Movie{name=Love Me If You Dare (Jeux d'enfants) (2003), genres=Set(Drama, Romance)}
+Movie{name=Ruby Gentry (1952), genres=Set(Drama)}
+Movie{name=Greed (1924), genres=Set(Drama)}
+Movie{name=Phantom of the Opera, The (1925), genres=Set(Drama, Horror)}
+Movie{name=Pandora's Box (Büchse der Pandora, Die) (1929), genres=Set(Drama)}
+Movie{name=Cameraman, The (1928), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Little Caesar (1931), genres=Set(Crime, Drama)}
+Movie{name=Golden Age, The (Âge d'Or, L') (1930), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Scarface (1932), genres=Set(Crime, Drama)}
+Movie{name=I Was Born, But... (a.k.a. Children of Tokyo) (Otona no miru ehon - Umarete wa mita keredo) (1932), genres=Set(Comedy, Drama)}
+Movie{name=Dinner at Eight (1933), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Atalante, L' (1934), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Fury (1936), genres=Set(Drama, Film-Noir)}
+Movie{name=Petrified Forest, The (1936), genres=Set(Crime, Drama, Romance)}
+Movie{name=Nothing Sacred (1937), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Stage Door (1937), genres=Set(Drama)}
+Movie{name=Holiday (1938), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Wuthering Heights (1939), genres=Set(Drama, Romance)}
+Movie{name=Letter, The (1940), genres=Set(Drama, Film-Noir)}
+Movie{name=Hard Way, The (1943), genres=Set(Drama)}
+Movie{name=Random Harvest (1942), genres=Set(Drama, Romance)}
+Movie{name=Day of Wrath (Vredens dag) (1943), genres=Set(Drama)}
+Movie{name=Curse of the Cat People, The (1944), genres=Set(Drama)}
+Movie{name=Henry V (Chronicle History of King Henry the Fift with His Battell Fought at Agincourt in France, The) (1944), genres=Set(Drama, War)}
+Movie{name=Ministry of Fear (1944), genres=Set(Drama, Film-Noir, Thriller)}
+Movie{name=Mr. Skeffington (1944), genres=Set(Drama, Romance)}
+Movie{name=They Were Expendable (1945), genres=Set(Drama, War)}
+Movie{name=Blue Dahlia, The (1946), genres=Set(Thriller, Drama, Film-Noir, Mystery, Crime)}
+Movie{name=Stranger, The (1946), genres=Set(Drama, Film-Noir, Thriller)}
+Movie{name=Nightmare Alley (1947), genres=Set(Drama, Film-Noir)}
+Movie{name=Odd Man Out (1947), genres=Set(Crime, Drama, Film-Noir, Thriller)}
+Movie{name=Lady from Shanghai, The (1947), genres=Set(Drama, Film-Noir, Mystery)}
+Movie{name=Letter from an Unknown Woman (1948), genres=Set(Drama, Romance)}
+Movie{name=Letter to Three Wives, A (1949), genres=Set(Comedy, Drama)}
+Movie{name=Carrie (1952), genres=Set(Drama, Romance)}
+Movie{name=Clash by Night (1952), genres=Set(Drama, Film-Noir)}
+Movie{name=Magnificent Obsession (1954), genres=Set(Drama, Romance)}
+Movie{name=Samurai I: Musashi Miyamoto (Miyamoto Musashi) (1954), genres=Set(Action, Adventure, Drama)}
+Movie{name=Star Is Born, A (1954), genres=Set(Drama, Musical)}
+Movie{name=The Wild One (1953), genres=Set(Drama)}
+Movie{name=Samurai II: Duel at Ichijoji Temple (Zoku Miyamoto Musashi: Ichijôji no kettô) (1955), genres=Set(Action, Adventure, Drama)}
+Movie{name=Unknown Soldier, The (Tuntematon sotilas) (1955), genres=Set(Drama, War)}
+Movie{name=Burmese Harp, The (Biruma no tategoto) (1956), genres=Set(Drama, War)}
+Movie{name=Samurai III: Duel on Ganryu Island (a.k.a. Bushido) (Miyamoto Musashi kanketsuhen: kettô Ganryûjima) (1956), genres=Set(Action, Adventure, Drama)}
+Movie{name=Spirit of St. Louis, The (1957), genres=Set(Adventure, Drama)}
+Movie{name=Pickpocket (1959), genres=Set(Crime, Drama)}
+Movie{name=David and Lisa (1962), genres=Set(Drama)}
+Movie{name=Harakiri (Seppuku) (1962), genres=Set(Drama)}
+Movie{name=Mutiny on the Bounty (1962), genres=Set(Adventure, Drama, Romance)}
+Movie{name=Occurrence at Owl Creek Bridge, An (La rivière du hibou) (1962), genres=Set(Drama, War)}
+Movie{name=Wonderful World of the Brothers Grimm, The (1962), genres=Set(Animation, Comedy, Fantasy, Romance, Drama, Musical, Adventure, Children)}
+Movie{name=Eclisse, L' (Eclipse) (1962), genres=Set(Drama)}
+Movie{name=Becket (1964), genres=Set(Drama)}
+Movie{name=Killers, The (1964), genres=Set(Thriller, Drama, Film-Noir, Crime, Action)}
+Movie{name=Onibaba (1964), genres=Set(Drama, Horror, War)}
+Movie{name=Battle of Algiers, The (La battaglia di Algeri) (1966), genres=Set(Drama, War)}
+Movie{name=Thousand Clowns, A (1965), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Andrei Rublev (Andrey Rublyov) (1969), genres=Set(Drama, War)}
+Movie{name=Au Hasard Balthazar (1966), genres=Set(Crime, Drama)}
+Movie{name=Point Blank (1967), genres=Set(Action, Crime, Drama, Thriller)}
+Movie{name=Titicut Follies (1967), genres=Set(Documentary, Drama)}
+Movie{name=Two for the Road (1967), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Up the Down Staircase (1967), genres=Set(Drama)}
+Movie{name=Heart Is a Lonely Hunter, The (1968), genres=Set(Drama)}
+Movie{name=Alice's Restaurant (1969), genres=Set(Comedy, Drama)}
+Movie{name=My Night At Maud's (Ma Nuit Chez Maud) (1969), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Swedish Love Story, A (Kärlekshistoria, En) (1970), genres=Set(Drama, Romance)}
+Movie{name=Landlord, The (1970), genres=Set(Comedy, Drama)}
+Movie{name=Performance (1970), genres=Set(Crime, Drama, Thriller)}
+Movie{name=The Devils (1971), genres=Set(Drama)}
+Movie{name=Mon Oncle Antoine (1971), genres=Set(Drama)}
+Movie{name=Lady Sings the Blues (1972), genres=Set(Drama, Musical)}
+Movie{name=Scarecrow (1973), genres=Set(Drama)}
+Movie{name=California Split (1974), genres=Set(Comedy, Drama)}
+Movie{name=Emmanuelle (1974), genres=Set(Drama, Romance)}
+Movie{name=Phantom of Liberty, The (Fantôme de la liberté, Le) (1974), genres=Set(Comedy, Drama)}
+Movie{name=Flesh for Frankenstein (a.k.a. Andy Warhol's Frankenstein) (1973), genres=Set(Drama, Horror, Sci-Fi)}
+Movie{name=Gone in 60 Seconds (1974), genres=Set(Action, Crime, Drama)}
+Movie{name=Harry and Tonto (1974), genres=Set(Comedy, Drama)}
+Movie{name=Holy Mountain, The (Montaña sagrada, La) (1973), genres=Set(Drama)}
+Movie{name=Story of Adele H., The (Histoire d'Adèle H., L') (1975), genres=Set(Drama)}
+Movie{name=Passenger, The (Professione: reporter) (1975), genres=Set(Drama)}
+Movie{name=The Missouri Breaks (1976), genres=Set(Drama, Western)}
+Movie{name=New York, New York (1977), genres=Set(Drama, Musical, Romance)}
+Movie{name=Turning Point, The (1977), genres=Set(Drama, Romance)}
+Movie{name=In Praise of Older Women (1978), genres=Set(Drama)}
+Movie{name=Wedding, A (1978), genres=Set(Comedy, Drama)}
+Movie{name=Hair (1979), genres=Set(Comedy, Drama, Musical)}
+Movie{name=Luna, La (1979), genres=Set(Drama)}
+Movie{name=Bad Boys (1983), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Blue Thunder (1983), genres=Set(Action, Crime, Drama)}
+Movie{name=Day After, The (1983), genres=Set(Drama, Sci-Fi)}
+Movie{name=Norte, El (1984), genres=Set(Adventure, Drama)}
+Movie{name=Rumble Fish (1983), genres=Set(Drama)}
+Movie{name=Star 80 (1983), genres=Set(Drama)}
+Movie{name=Suburbia (1984), genres=Set(Drama)}
+Movie{name=Electric Dreams (1984), genres=Set(Comedy, Drama, Romance, Sci-Fi)}
+Movie{name=Anne of Green Gables (1985), genres=Set(Children, Drama)}
+Movie{name=Quiet Earth, The (1985), genres=Set(Drama, Mystery, Sci-Fi)}
+Movie{name=White Nights (1985), genres=Set(Drama)}
+Movie{name='Round Midnight (1986), genres=Set(Drama, Musical)}
+Movie{name=Ginger and Fred (Ginger e Fred) (1986), genres=Set(Comedy, Drama)}
+Movie{name=Sacrifice, The (Offret - Sacraficatio) (1986), genres=Set(Drama)}
+Movie{name=Better Tomorrow, A (Ying hung boon sik) (1986), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Decalogue, The (Dekalog) (1989), genres=Set(Crime, Drama, Romance)}
+Movie{name=Law of Desire (Ley del deseo, La) (1987), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Bourne Identity, The (1988), genres=Set(Thriller, Drama, Mystery, Adventure, Action)}
+Movie{name=Dominick and Eugene (1988), genres=Set(Drama)}
+Movie{name=Lonesome Dove (1989), genres=Set(Adventure, Drama, Western)}
+Movie{name=Kiki's Delivery Service (Majo no takkyûbin) (1989), genres=Set(Animation, Fantasy, Drama, Adventure, Children)}
+Movie{name=Havana (1990), genres=Set(Drama)}
+Movie{name=It (1990), genres=Set(Thriller, Horror, Fantasy, Drama, Mystery)}
+Movie{name=Ju Dou (1990), genres=Set(Drama)}
+Movie{name=Krays, The (1990), genres=Set(Drama)}
+Movie{name=Patlabor: The Movie (Kidô keisatsu patorebâ: The Movie) (1989), genres=Set(Animation, Thriller, Drama, Film-Noir, Mystery, Sci-Fi, Crime, Action)}
+Movie{name=Reflecting Skin, The (1990), genres=Set(Drama, Horror, Thriller)}
+Movie{name=State of Grace (1990), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Homicide (1991), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Light Sleeper (1992), genres=Set(Crime, Drama)}
+Movie{name=Prospero's Books (1991), genres=Set(Drama, Fantasy)}
+Movie{name=Quigley Down Under (1990), genres=Set(Adventure, Drama, Western)}
+Movie{name=Mambo Kings, The (1992), genres=Set(Drama, Musical)}
+Movie{name=Night and the City (1992), genres=Set(Crime, Drama)}
+Movie{name=Story of Qiu Ju, The (Qiu Ju da guan si) (1992), genres=Set(Comedy, Drama)}
+Movie{name=Shining Through (1992), genres=Set(Drama, Romance, Thriller, War)}
+Movie{name=Baby of Mâcon, The (a.k.a. The Baby of Macon) (1993), genres=Set(Drama)}
+Movie{name=Bad Boy Bubby (1993), genres=Set(Drama)}
+Movie{name=Barbarians at the Gate (1993), genres=Set(Drama)}
+Movie{name=Snapper, The (1993), genres=Set(Comedy, Drama)}
+Movie{name=Sonatine (Sonachine) (1993), genres=Set(Action, Comedy, Crime, Drama)}

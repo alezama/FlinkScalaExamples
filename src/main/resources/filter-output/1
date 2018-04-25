@@ -1,0 +1,462 @@
+Movie{name=Vow, The (2012), genres=Set(Drama, Romance)}
+Movie{name=Holding Trevor (2007), genres=Set(Drama, Romance)}
+Movie{name=For a Good Time, Call... (2012), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Perfect Sense (2011), genres=Set(Drama, Romance, Sci-Fi)}
+Movie{name=Prayers for Bobby (2009), genres=Set(Drama)}
+Movie{name=October Baby (2011), genres=Set(Drama)}
+Movie{name=Gone (2012), genres=Set(Drama, Thriller)}
+Movie{name=Courageous (2011), genres=Set(Drama)}
+Movie{name=Goon (2011), genres=Set(Comedy, Drama)}
+Movie{name=Game Change (2012), genres=Set(Drama)}
+Movie{name=Jeff, Who Lives at Home (2012), genres=Set(Comedy, Drama)}
+Movie{name=God Bless America (2011), genres=Set(Comedy, Drama)}
+Movie{name=Best Exotic Marigold Hotel, The (2011), genres=Set(Comedy, Drama)}
+Movie{name=Lucky One, The (2012), genres=Set(Drama)}
+Movie{name=Black Mirror (2011), genres=Set(Drama, Sci-Fi)}
+Movie{name=96 Minutes (2011) , genres=Set(Drama, Thriller)}
+Movie{name=Across the Line: The Exodus of Charlie Wright (2010), genres=Set(Crime, Drama)}
+Movie{name=Snow White and the Huntsman (2012), genres=Set(Action, Adventure, Drama)}
+Movie{name=Sound of My Voice (2011), genres=Set(Drama, Mystery, Sci-Fi)}
+Movie{name=Bernie (2011), genres=Set(Comedy, Crime, Drama)}
+Movie{name=Inhale (2010), genres=Set(Drama, Thriller)}
+Movie{name=Take This Waltz (2011), genres=Set(Drama, Romance)}
+Movie{name=Moonrise Kingdom (2012), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Kahaani (2012), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Thousand Words, A (2012), genres=Set(Comedy, Drama)}
+Movie{name=Safety Not Guaranteed (2012), genres=Set(Comedy, Drama)}
+Movie{name=Your Sister's Sister (2011), genres=Set(Comedy, Drama)}
+Movie{name=What to Expect When You're Expecting (2012), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Rock of Ages (2012), genres=Set(Comedy, Drama, Musical, IMAX)}
+Movie{name=Seeking a Friend for the End of the World (2012), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Giant Mechanical Man, The (2012), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Magic Mike (2012), genres=Set(Drama, Romance)}
+Movie{name=Cleanskin (2012), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Beasts of the Southern Wild (2012), genres=Set(Drama, Fantasy)}
+Movie{name=People Like Us (2012), genres=Set(Drama)}
+Movie{name=Savages (2012), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Sidewalls (Medianeras) (2011), genres=Set(Drama)}
+Movie{name=Bleak House (2005), genres=Set(Drama)}
+Movie{name=Celeste and Jesse Forever (Celeste & Jesse Forever) (2012), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Broken (2012), genres=Set(Drama)}
+Movie{name=Lawless (2012), genres=Set(Crime, Drama)}
+Movie{name=Sleepwalk with Me (2012), genres=Set(Comedy, Drama)}
+Movie{name=Robot & Frank (2012), genres=Set(Comedy, Drama, Sci-Fi)}
+Movie{name=Master, The (2012), genres=Set(Drama)}
+Movie{name=End of Watch (2012), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Perks of Being a Wallflower, The (2012), genres=Set(Drama, Romance)}
+Movie{name=Hunt, The (Jagten) (2012), genres=Set(Drama)}
+Movie{name=Holy Motors (2012), genres=Set(Fantasy, Drama, Mystery, Musical, Sci-Fi)}
+Movie{name=Sparkle (2012), genres=Set(Drama, Musical)}
+Movie{name=Taken 2 (2012), genres=Set(Action, Crime, Drama, Thriller)}
+Movie{name=Royal Affair, A (Kongelig affære, En) (2012), genres=Set(Drama, Romance)}
+Movie{name=Kon-Tiki (2012), genres=Set(Adventure, Documentary, Drama)}
+Movie{name=Shakespeare-Wallah (1965), genres=Set(Drama)}
+Movie{name=Argo (2012), genres=Set(Drama, Thriller)}
+Movie{name=Liberal Arts (2012), genres=Set(Comedy, Drama)}
+Movie{name=Catch .44 (2011), genres=Set(Action, Drama, Thriller)}
+Movie{name=Tony (2009), genres=Set(Drama, Horror, Thriller)}
+Movie{name=Cloud Atlas (2012), genres=Set(Drama, Sci-Fi, IMAX)}
+Movie{name=Patience Stone, The (2012), genres=Set(Drama, War)}
+Movie{name=Mental (2012), genres=Set(Comedy, Drama)}
+Movie{name=Killing Them Softly (2012), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Sessions, The (Surrogate, The) (2012), genres=Set(Drama)}
+Movie{name=What Richard Did (2012), genres=Set(Drama)}
+Movie{name=Silver Linings Playbook (2012), genres=Set(Comedy, Drama)}
+Movie{name=Flight (2012), genres=Set(Drama)}
+Movie{name=Anna Karenina (2012), genres=Set(Drama)}
+Movie{name=Life of Pi (2012), genres=Set(Adventure, Drama, IMAX)}
+Movie{name=Excision (2012), genres=Set(Crime, Drama, Horror, Thriller)}
+Movie{name=Union Square (2011), genres=Set(Drama)}
+Movie{name=Amour (2012), genres=Set(Drama, Romance)}
+Movie{name=Capital (Le capital) (2012), genres=Set(Drama)}
+Movie{name=Lincoln (2012), genres=Set(Drama, War)}
+Movie{name=10 Years (2011), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Deadfall (2012), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Rebecca of Sunnybrook Farm (1938), genres=Set(Children, Comedy, Drama, Musical)}
+Movie{name=Baby Take a Bow (1934), genres=Set(Children, Comedy, Drama)}
+Movie{name=Sleeping Car Murder, The (Compartiment tueurs) (1965), genres=Set(Drama, Mystery, Thriller)}
+Movie{name=Hitchcock (2012), genres=Set(Drama)}
+Movie{name=Caesar Must Die (Cesare deve morire) (2012), genres=Set(Drama)}
+Movie{name=From Up on Poppy Hill (Kokuriko-zaka kara) (2011), genres=Set(Animation, Drama, Romance)}
+Movie{name=Little Miss Broadway (1938), genres=Set(Drama, Musical)}
+Movie{name=Hyde Park on Hudson (2012), genres=Set(Comedy, Drama)}
+Movie{name=Violeta Went to Heaven (Violeta se fue a los cielos) (2011), genres=Set(Drama)}
+Movie{name=Yossi (Ha-Sippur Shel Yossi) (2012), genres=Set(Drama, Romance)}
+Movie{name=Zero Dark Thirty (2012), genres=Set(Action, Drama, Thriller)}
+Movie{name=Neighbouring Sounds (O som ao redor) (2012), genres=Set(Drama, Thriller)}
+Movie{name=Fire with Fire (2012), genres=Set(Action, Crime, Drama)}
+Movie{name=Wrong (2012), genres=Set(Comedy, Drama)}
+Movie{name=Our Little Girl (1935), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Django Unchained (2012), genres=Set(Action, Drama, Western)}
+Movie{name=This Is 40 (2012), genres=Set(Drama)}
+Movie{name=Impossible, The (Imposible, Lo) (2012), genres=Set(Drama, Thriller)}
+Movie{name=Misérables, Les (2012), genres=Set(Drama, Musical, Romance, IMAX)}
+Movie{name=Quartet (2012), genres=Set(Comedy, Drama)}
+Movie{name=Susannah of the Mounties (1939), genres=Set(Drama)}
+Movie{name=Promised Land (2012), genres=Set(Drama)}
+Movie{name=Judas Kiss (2011), genres=Set(Drama, Sci-Fi)}
+Movie{name=Role/Play (2010), genres=Set(Drama)}
+Movie{name=Eat Sleep Die (Äta sova dö) (2012), genres=Set(Drama)}
+Movie{name=Gangster Squad (2013), genres=Set(Action, Crime, Drama)}
+Movie{name=It's Such a Beautiful Day (2012), genres=Set(Animation, Comedy, Fantasy, Drama, Sci-Fi)}
+Movie{name=Shadow Dancer (2012), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Keep the Lights On (2012), genres=Set(Drama)}
+Movie{name=Why Stop Now (2012), genres=Set(Comedy, Drama)}
+Movie{name=Snow White (Blancanieves) (2012), genres=Set(Drama)}
+Movie{name=Angst  (1983), genres=Set(Drama, Horror)}
+Movie{name=Side Effects (2013), genres=Set(Crime, Drama, Mystery, Thriller)}
+Movie{name=Beautiful Creatures (2013), genres=Set(Drama, Fantasy, Romance)}
+Movie{name=Safe Haven (2013), genres=Set(Drama, Mystery, Romance)}
+Movie{name=Before Midnight (2013), genres=Set(Drama, Romance)}
+Movie{name=Oh Boy (A Coffee in Berlin) (2012), genres=Set(Comedy, Drama)}
+Movie{name=Wadjda (2012), genres=Set(Drama)}
+Movie{name=Stoker (2013), genres=Set(Drama, Mystery, Thriller)}
+Movie{name=Spring Breakers (2013), genres=Set(Comedy, Crime, Drama)}
+Movie{name=Call, The (2013), genres=Set(Drama, Thriller)}
+Movie{name=First Time, The (2012), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Place Beyond the Pines, The (2012), genres=Set(Crime, Drama)}
+Movie{name=Phil Spector (2013), genres=Set(Drama)}
+Movie{name=Dark Tide (2012), genres=Set(Adventure, Drama, Thriller)}
+Movie{name=42 (2013), genres=Set(Drama)}
+Movie{name=Happy (2011), genres=Set(Documentary, Drama)}
+Movie{name=English Teacher, The (2013), genres=Set(Comedy, Drama)}
+Movie{name=Mud (2012), genres=Set(Adventure, Crime, Drama)}
+Movie{name=Syrup (2013), genres=Set(Comedy, Drama)}
+Movie{name=Woman in the Fifth, The (Femme du Vème, La) (2011), genres=Set(Drama, Mystery, Thriller)}
+Movie{name=Great Gatsby, The (2013), genres=Set(Drama)}
+Movie{name=Wish You Were Here (2012), genres=Set(Drama, Mystery)}
+Movie{name=Only God Forgives (2013), genres=Set(Drama, Thriller)}
+Movie{name=Past, The (Le passé) (2013), genres=Set(Drama, Mystery, Romance)}
+Movie{name=Broken Circle Breakdown, The (2012), genres=Set(Drama)}
+Movie{name=Frances Ha (2012), genres=Set(Comedy, Drama)}
+Movie{name=Behind the Candelabra (2013), genres=Set(Drama)}
+Movie{name=Lovelace (2013), genres=Set(Drama)}
+Movie{name=Way, Way Back, The (2013), genres=Set(Comedy, Drama)}
+Movie{name=Foxfire (2012), genres=Set(Drama)}
+Movie{name=Bling Ring, The (2013), genres=Set(Crime, Drama)}
+Movie{name=World War Z (2013), genres=Set(Action, Drama, Horror, IMAX)}
+Movie{name=Elysium (2013), genres=Set(Action, Drama, Sci-Fi, IMAX)}
+Movie{name=What Maisie Knew (2012), genres=Set(Drama)}
+Movie{name=White House Down (2013), genres=Set(Action, Drama, Thriller, IMAX)}
+Movie{name=Passion (2012), genres=Set(Crime, Drama, Mystery, Thriller)}
+Movie{name=The Spectacular Now (2013), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Lifeguard, The (2013), genres=Set(Comedy, Drama)}
+Movie{name=Fruitvale Station (2013), genres=Set(Drama)}
+Movie{name=Angel Named Billy, An (2007), genres=Set(Drama)}
+Movie{name=Drinking Buddies (2013), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Revenge for Jolly! (2012), genres=Set(Comedy, Drama)}
+Movie{name=Blue Jasmine (2013), genres=Set(Drama)}
+Movie{name=Great Beauty, The (Grande Bellezza, La) (2013), genres=Set(Comedy, Drama)}
+Movie{name=Forsyte Saga, The (1967), genres=Set(Drama)}
+Movie{name=Wind Rises, The (Kaze tachinu) (2013), genres=Set(Animation, Drama, Romance)}
+Movie{name=Jobs (2013), genres=Set(Drama)}
+Movie{name=Mortal Instruments: City of Bones, The (2013), genres=Set(Action, Adventure, Drama, IMAX)}
+Movie{name=Touchy Feely (2013), genres=Set(Drama)}
+Movie{name=Lee Daniels' The Butler (2013), genres=Set(Drama)}
+Movie{name=About Time (2013), genres=Set(Drama, Fantasy, Romance)}
+Movie{name=Frozen Ground, The (2013), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Tidal Wave (2009), genres=Set(Drama)}
+Movie{name=Chicago 8, The (2011), genres=Set(Drama)}
+Movie{name=What If (2013), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Prisoners (2013), genres=Set(Drama, Mystery, Thriller)}
+Movie{name=Out of the Furnace (Dust to Dust) (Low Dweller, The) (2013), genres=Set(Drama, Thriller)}
+Movie{name=Rush (2013), genres=Set(Action, Drama)}
+Movie{name=Short Term 12 (2013), genres=Set(Drama)}
+Movie{name=Inescapable (2012), genres=Set(Action, Drama, War)}
+Movie{name=Nebraska (2013), genres=Set(Adventure, Drama)}
+Movie{name=Enough Said (2013), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Don Jon (2013), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Mood Indigo (L'écume des jours) (2013), genres=Set(Drama, Fantasy)}
+Movie{name=Runner Runner (2013), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Blue Is the Warmest Color (La vie d'Adèle) (2013), genres=Set(Drama, Romance)}
+Movie{name=Captain Phillips (2013), genres=Set(Adventure, Drama, Thriller, IMAX)}
+Movie{name=Filth (2013), genres=Set(Comedy, Crime, Drama)}
+Movie{name=Carrie (2013), genres=Set(Drama, Horror)}
+Movie{name=Counselor, The (2013), genres=Set(Crime, Drama, Thriller)}
+Movie{name=12 Years a Slave (2013), genres=Set(Drama)}
+Movie{name=All Is Lost (2013), genres=Set(Action, Adventure, Drama)}
+Movie{name=Dallas Buyers Club (2013), genres=Set(Drama)}
+Movie{name=Selfish Giant, The (2013), genres=Set(Drama)}
+Movie{name=Pieta (2013), genres=Set(Drama)}
+Movie{name=Last Vegas (2013), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Stephen Tobolowsky's Birthday Party (2005), genres=Set(Comedy, Documentary, Drama)}
+Movie{name=Absent (Ausente) (2011), genres=Set(Drama, Thriller)}
+Movie{name=Philomena (2013), genres=Set(Comedy, Drama)}
+Movie{name=Book Thief, The (2013), genres=Set(Children, Drama, War)}
+Movie{name=Ida (2013), genres=Set(Drama)}
+Movie{name=Day of the Doctor, The (2013), genres=Set(Adventure, Drama, Sci-Fi)}
+Movie{name=Inside Llewyn Davis (2013), genres=Set(Drama)}
+Movie{name=Wolf of Wall Street, The (2013), genres=Set(Comedy, Crime, Drama)}
+Movie{name=Mandela: Long Walk to Freedom (2013), genres=Set(Drama)}
+Movie{name=Evangelion: 3.0 You Can (Not) Redo (2012), genres=Set(Action, Animation, Drama)}
+Movie{name=All is Bright (2013), genres=Set(Comedy, Drama)}
+Movie{name=American Hustle (2013), genres=Set(Crime, Drama)}
+Movie{name=Secret Life of Walter Mitty, The (2013), genres=Set(Adventure, Comedy, Drama)}
+Movie{name=Her (2013), genres=Set(Drama, Romance, Sci-Fi)}
+Movie{name=Dead Set (2008), genres=Set(Comedy, Drama, Horror)}
+Movie{name=Lone Survivor (2013), genres=Set(Action, Drama, Thriller, War)}
+Movie{name=Zatoichi on the Road (Zatôichi kenka-tabi) (Zatôichi 5) (1963), genres=Set(Action, Drama)}
+Movie{name=Geography Club (2013), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Saving Mr. Banks (2013), genres=Set(Comedy, Drama)}
+Movie{name=Oldboy (2013), genres=Set(Action, Drama, Mystery)}
+Movie{name=Snowpiercer (2013), genres=Set(Action, Drama, Sci-Fi)}
+Movie{name=Fireworks Wednesday (Chaharshanbe-soori) (2006), genres=Set(Drama, Mystery, Romance)}
+Movie{name=Am Ende eiens viel zu kurzen Tages (Death of a superhero) (2011), genres=Set(Animation, Drama)}
+Movie{name=Only Lovers Left Alive (2013), genres=Set(Drama, Horror, Romance)}
+Movie{name=Like Father, Like Son (Soshite chichi ni naru) (2013), genres=Set(Drama)}
+Movie{name=Jack Ryan: Shadow Recruit (2014), genres=Set(Action, Drama, Thriller, IMAX)}
+Movie{name=Hotel Chevalier (Part 1 of 'The Darjeeling Limited') (2007), genres=Set(Drama)}
+Movie{name=Yeh Jawaani Hai Deewani (2013), genres=Set(Comedy, Drama, Musical, Romance)}
+Movie{name=String, The (Le fil) (2009), genres=Set(Drama)}
+Movie{name=Drift (2013), genres=Set(Drama)}
+Movie{name=Generation Kill (2008), genres=Set(Drama, War)}
+Movie{name=Better Living Through Chemistry (2014), genres=Set(Comedy, Drama)}
+Movie{name=Nymphomaniac: Volume I (2013), genres=Set(Drama)}
+Movie{name=Same Love, Same Rain (El mismo amor, la misma lluvia) (1999), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Monuments Men, The (2014), genres=Set(Action, Drama, War)}
+Movie{name=Nymphomaniac: Volume II (2013), genres=Set(Drama, Mystery)}
+Movie{name=Venus in Fur (La Vénus à la fourrure) (2013), genres=Set(Drama)}
+Movie{name=Zero Theorem, The (2013), genres=Set(Drama, Fantasy, Sci-Fi)}
+Movie{name=Winter's Tale (2014), genres=Set(Drama, Fantasy, Mystery)}
+Movie{name=Journey, The (El viaje) (1992), genres=Set(Drama)}
+Movie{name=Cold Comes the Night (2013), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Grand Budapest Hotel, The (2014), genres=Set(Comedy, Drama)}
+Movie{name=300: Rise of an Empire (2014), genres=Set(Action, Drama, War, IMAX)}
+Movie{name=Need for Speed (2014), genres=Set(Action, Crime, Drama, IMAX)}
+Movie{name=Barefoot (2014), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Veronica Mars (2014), genres=Set(Comedy, Crime, Drama)}
+Movie{name=Broderskab (Brotherhood) (2009), genres=Set(Drama)}
+Movie{name=Starred Up (2013), genres=Set(Drama)}
+Movie{name=Noah (2014), genres=Set(Adventure, Drama, IMAX)}
+Movie{name=Wetlands (Feuchtgebiete) (2013), genres=Set(Comedy, Drama)}
+Movie{name=Survival Island (Three) (2005), genres=Set(Adventure, Drama, Horror)}
+Movie{name=Draft Day (2014), genres=Set(Drama)}
+Movie{name=We Are the Best! (Vi är bäst!) (2013), genres=Set(Children, Comedy, Drama)}
+Movie{name=Calvary (2014), genres=Set(Comedy, Drama)}
+Movie{name=Cold in July (2014), genres=Set(Drama, Thriller)}
+Movie{name=Transcendence (2014), genres=Set(Drama, Sci-Fi, IMAX)}
+Movie{name=Wake Wood (2010) , genres=Set(Drama, Horror, Mystery)}
+Movie{name=Brick Mansions (2014), genres=Set(Action, Crime, Drama)}
+Movie{name=Firstborn (1984), genres=Set(Drama, Thriller)}
+Movie{name=Rocket, The (2013), genres=Set(Drama)}
+Movie{name=Centenarian Who Climbed Out the Window and Vanished, The (Hundraåringen som klev ut genom fönstret och försvann) (2013), genres=Set(Adventure, Comedy, Drama)}
+Movie{name=Locke (2013), genres=Set(Drama)}
+Movie{name=Belle (2013), genres=Set(Drama)}
+Movie{name=Immigrant, The (2013), genres=Set(Drama, Romance)}
+Movie{name=Normal Heart, The (2014), genres=Set(Drama)}
+Movie{name=Kelly & Cal (2014), genres=Set(Comedy, Drama)}
+Movie{name=Million Dollar Arm (2014), genres=Set(Comedy, Drama)}
+Movie{name=Lilting (2014), genres=Set(Drama)}
+Movie{name=The Fault in Our Stars (2014), genres=Set(Drama, Romance)}
+Movie{name=Camille Claudel 1915 (2013), genres=Set(Drama)}
+Movie{name=Maps to the Stars (2014), genres=Set(Drama)}
+Movie{name=Birdman: Or (The Unexpected Virtue of Ignorance) (2014), genres=Set(Comedy, Drama)}
+Movie{name=Boyhood (2014), genres=Set(Drama)}
+Movie{name=Frank (2014), genres=Set(Comedy, Drama, Mystery)}
+Movie{name=Babadook, The (2014), genres=Set(Drama, Horror, Thriller)}
+Movie{name=White God (Fehér isten) (2014), genres=Set(Drama)}
+Movie{name=Whiplash (2014), genres=Set(Drama)}
+Movie{name=Gone Girl (2014), genres=Set(Drama, Thriller)}
+Movie{name=Willie & Phil (1980), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Miss Violence (2013), genres=Set(Drama, Mystery)}
+Movie{name=Charlie's Country (2013), genres=Set(Drama)}
+Movie{name=And So It Goes (2014), genres=Set(Comedy, Drama, Romance)}
+Movie{name=I Origins (2014), genres=Set(Drama, Sci-Fi)}
+Movie{name=Words and Pictures (2013), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Trip to Italy, The (2014), genres=Set(Comedy, Drama)}
+Movie{name=Get on Up (2014), genres=Set(Drama, Musical)}
+Movie{name=Magic in the Moonlight (2014), genres=Set(Comedy, Drama, Romance)}
+Movie{name=The Hundred-Foot Journey (2014), genres=Set(Comedy, Drama)}
+Movie{name=Giver, The (2014), genres=Set(Drama, Sci-Fi)}
+Movie{name=Revenge of the Green Dragons (2014), genres=Set(Action, Crime, Drama)}
+Movie{name=Two Days, One Night (Deux jours, une nuit) (2014), genres=Set(Drama)}
+Movie{name=Coherence (2013), genres=Set(Drama, Mystery, Sci-Fi, Thriller)}
+Movie{name=One I Love, The (2014), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Pride (2014), genres=Set(Comedy, Drama)}
+Movie{name=The Drop (2014), genres=Set(Crime, Drama, Thriller)}
+Movie{name=The Skeleton Twins (2014), genres=Set(Drama)}
+Movie{name=Force Majeure (Turist) (2014), genres=Set(Drama)}
+Movie{name=White Bird in a Blizzard (2014), genres=Set(Drama, Romance, Thriller)}
+Movie{name=Helter Skelter (1976), genres=Set(Crime, Drama, Thriller)}
+Movie{name=This Is Where I Leave You (2014), genres=Set(Comedy, Drama)}
+Movie{name=Tusk (2014), genres=Set(Comedy, Drama, Horror)}
+Movie{name=Dracula Untold (2014), genres=Set(Action, Drama, Fantasy)}
+Movie{name=Captive, The (2014), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Challenge to Lassie (1949), genres=Set(Children, Drama)}
+Movie{name=The Best of Me (2014), genres=Set(Drama, Romance)}
+Movie{name=Judge, The (2014), genres=Set(Drama)}
+Movie{name=Love Is Strange (2014), genres=Set(Drama)}
+Movie{name=Fury (2014), genres=Set(Action, Drama, War)}
+Movie{name=Salvation, The (2014), genres=Set(Drama, Western)}
+Movie{name=Nightcrawler (2014), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Time Lapse (2014), genres=Set(Crime, Drama, Sci-Fi, Thriller)}
+Movie{name=Ex Machina (2015), genres=Set(Drama, Sci-Fi, Thriller)}
+Movie{name=The Young Savages (1961), genres=Set(Crime, Drama)}
+Movie{name=Olive Kitteridge (2014), genres=Set(Drama)}
+Movie{name=Foxcatcher (2014), genres=Set(Drama)}
+Movie{name=Zulu (2013), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Free Fall (2013), genres=Set(Drama)}
+Movie{name=The Imitation Game (2014), genres=Set(Drama, Thriller, War)}
+Movie{name=Inherent Vice (2014), genres=Set(Comedy, Romance, Drama, Mystery, Crime)}
+Movie{name=The Way He Looks (2014), genres=Set(Drama, Romance)}
+Movie{name=Exodus: Gods and Kings (2014), genres=Set(Action, Adventure, Drama)}
+Movie{name=Wild Tales (2014), genres=Set(Comedy, Drama, Thriller)}
+Movie{name=The Longest Week (2014), genres=Set(Comedy, Drama)}
+Movie{name=Miss Meadows (2014), genres=Set(Drama)}
+Movie{name=Dorothy Mills (2008), genres=Set(Drama, Horror, Mystery, Thriller)}
+Movie{name=Dear White People (2014), genres=Set(Comedy, Drama)}
+Movie{name=The Theory of Everything (2014), genres=Set(Drama, Romance)}
+Movie{name=Beyond the Lights (2014), genres=Set(Drama)}
+Movie{name=Jurassic World (2015), genres=Set(Thriller, Drama, Sci-Fi, Adventure, Action)}
+Movie{name=Water Diviner, The (2014), genres=Set(Action, Drama, War)}
+Movie{name=Dying of the Light (2014), genres=Set(Drama, Thriller)}
+Movie{name=By the Gun (2014), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Kill the Messenger (2014), genres=Set(Crime, Drama, Mystery, Thriller)}
+Movie{name=Selma (2014), genres=Set(Drama)}
+Movie{name=Unbroken (2014), genres=Set(Drama, War)}
+Movie{name=A Most Violent Year (2014), genres=Set(Action, Crime, Drama, Thriller)}
+Movie{name=Wild (2014), genres=Set(Drama)}
+Movie{name=Big Eyes (2014), genres=Set(Drama)}
+Movie{name=Men, Women & Children (2014), genres=Set(Comedy, Drama)}
+Movie{name=Comet (2014), genres=Set(Comedy, Drama, Romance, Sci-Fi)}
+Movie{name=Blackhat (2015), genres=Set(Thriller, Drama, Mystery, Crime, Action)}
+Movie{name=Son of a Gun (2014), genres=Set(Action, Crime, Drama)}
+Movie{name=Off Beat (2004), genres=Set(Drama, Romance)}
+Movie{name=The Great Gatsby (1926), genres=Set(Drama)}
+Movie{name=Wicked Blood (2014), genres=Set(Action, Drama, Thriller)}
+Movie{name=The Story on Page One (1959), genres=Set(Drama)}
+Movie{name=Cake (2014), genres=Set(Drama)}
+Movie{name=The Gambler (2014), genres=Set(Crime, Drama, Thriller)}
+Movie{name=Fifty Shades of Grey (2015), genres=Set(Drama, Romance)}
+Movie{name=The Pacific (2010), genres=Set(Action, Adventure, Drama, War)}
+Movie{name=Brooklyn (2015), genres=Set(Drama, Romance)}
+Movie{name=The End of the Tour (2015), genres=Set(Drama)}
+Movie{name=I'll See You in My Dreams (2015), genres=Set(Comedy, Drama)}
+Movie{name=True Story (2015), genres=Set(Drama, Mystery, Thriller)}
+Movie{name=99 Homes (2014), genres=Set(Drama)}
+Movie{name=Dope (2015), genres=Set(Comedy, Drama)}
+Movie{name=Me and Earl and the Dying Girl (2015), genres=Set(Drama)}
+Movie{name=The Stanford Prison Experiment (2015), genres=Set(Drama, Thriller)}
+Movie{name=Back Soon (2007), genres=Set(Drama, Romance)}
+Movie{name=Stormy Weather (1943), genres=Set(Comedy, Documentary, Drama)}
+Movie{name=Paper Towns (2015), genres=Set(Drama, Mystery, Romance)}
+Movie{name=45 Years (2015), genres=Set(Drama)}
+Movie{name=Getting Go, the Go Doc Project (2013), genres=Set(Drama)}
+Movie{name=The Clowns (1970), genres=Set(Comedy, Drama, Fantasy, Sci-Fi)}
+Movie{name=Focus (2015), genres=Set(Comedy, Crime, Drama, Romance)}
+Movie{name=Every Thing Will Be Fine (2015), genres=Set(Drama)}
+Movie{name=The Second Best Exotic Marigold Hotel (2015), genres=Set(Comedy, Drama)}
+Movie{name=Ismael (2013), genres=Set(Drama)}
+Movie{name=McFarland, USA (2015), genres=Set(Drama)}
+Movie{name=Run All Night (2015), genres=Set(Action, Crime, Drama, Thriller)}
+Movie{name=Cinderella (2015), genres=Set(Children, Drama, Fantasy, Romance)}
+Movie{name=Kidnapping Mr. Heineken (2015), genres=Set(Action, Crime, Drama, Thriller)}
+Movie{name=The Cobbler (2015), genres=Set(Comedy, Drama, Fantasy)}
+Movie{name=While We're Young (2014), genres=Set(Comedy, Drama)}
+Movie{name=Midnight Special (2015), genres=Set(Drama, Sci-Fi)}
+Movie{name=The Disappearance of Eleanor Rigby: Her (2013), genres=Set(Drama)}
+Movie{name=Boys (2014), genres=Set(Drama)}
+Movie{name=Backcountry (2014), genres=Set(Drama, Horror, Thriller)}
+Movie{name=The Conrad Boys (2006), genres=Set(Drama)}
+Movie{name=Phoenix (2014), genres=Set(Drama)}
+Movie{name=Woman in Gold (2015), genres=Set(Drama)}
+Movie{name=Samba (2014), genres=Set(Comedy, Drama)}
+Movie{name=The Harvest (2013), genres=Set(Drama, Thriller)}
+Movie{name=Seve (2014), genres=Set(Documentary, Drama)}
+Movie{name=Sword of Vengeance (2014), genres=Set(Action, Adventure, Drama)}
+Movie{name=The Age of Adaline (2015), genres=Set(Drama, Fantasy, Romance)}
+Movie{name=Danny Collins (2015), genres=Set(Comedy, Drama)}
+Movie{name=A Girl Like Her (2015), genres=Set(Drama)}
+Movie{name=Kite (2014), genres=Set(Thriller, Drama, Mystery, Crime, Action)}
+Movie{name=San Andreas (2015), genres=Set(Action, Drama, Thriller)}
+Movie{name=Welcome to Me (2014), genres=Set(Comedy, Drama)}
+Movie{name=Far from the Madding Crowd (2015), genres=Set(Drama)}
+Movie{name=Ricki and the Flash (2015), genres=Set(Comedy, Drama)}
+Movie{name=Partisan (2015), genres=Set(Drama, Thriller)}
+Movie{name=Just Before I Go (2014), genres=Set(Comedy, Drama)}
+Movie{name=Carol (2015), genres=Set(Drama, Romance)}
+Movie{name=Maggie (2015), genres=Set(Drama, Horror, Thriller)}
+Movie{name=The Martian (2015), genres=Set(Adventure, Drama, Sci-Fi)}
+Movie{name=Aloha (2015), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Inside Out (2015), genres=Set(Animation, Comedy, Fantasy, Drama, Adventure, Children)}
+Movie{name=Love & Mercy (2014), genres=Set(Drama)}
+Movie{name=Black Mass (2015), genres=Set(Crime, Drama)}
+Movie{name=Steve Jobs (2015), genres=Set(Drama)}
+Movie{name=The Face of an Angel (2015), genres=Set(Drama)}
+Movie{name=Swimming Upstream (2002), genres=Set(Drama)}
+Movie{name=Magic Mike XXL (2015), genres=Set(Comedy, Drama)}
+Movie{name=The Jungle Book (2016), genres=Set(Adventure, Drama, Fantasy)}
+Movie{name=The Walk (2015), genres=Set(Adventure, Drama, Thriller)}
+Movie{name=Nasty Baby (2015), genres=Set(Drama)}
+Movie{name=Hands in the Air (2010), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Afro Samurai (2007), genres=Set(Animation, Fantasy, Drama, Adventure, Action)}
+Movie{name=The Revenant (2015), genres=Set(Adventure, Drama)}
+Movie{name=Irrational Man (2015), genres=Set(Crime, Drama)}
+Movie{name=Everything's Gonna Be Great (1998), genres=Set(Adventure, Children, Comedy, Drama)}
+Movie{name=Southpaw (2015), genres=Set(Action, Drama)}
+Movie{name=Sicario (2015), genres=Set(Crime, Drama, Mystery)}
+Movie{name=Room (2015), genres=Set(Drama)}
+Movie{name=The Runner (2015), genres=Set(Drama)}
+Movie{name=The Gift (2015), genres=Set(Drama, Horror)}
+Movie{name=Straight Outta Compton (2015), genres=Set(Drama)}
+Movie{name=Eighteen (2005), genres=Set(Drama)}
+Movie{name=Get Your Stuff (2000), genres=Set(Drama, Romance)}
+Movie{name=The Man I Love (1997), genres=Set(Drama)}
+Movie{name=10 Attitudes (2001), genres=Set(Comedy, Drama, Romance)}
+Movie{name=16 Wishes (2010), genres=Set(Children, Drama, Fantasy)}
+Movie{name=Almost Normal (2005), genres=Set(Comedy, Drama, Sci-Fi)}
+Movie{name=3-Day Weekend (2008), genres=Set(Drama)}
+Movie{name=The Big Gay Musical (2009), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Tangerine (2015), genres=Set(Comedy, Drama)}
+Movie{name=Joy (2015), genres=Set(Comedy, Drama)}
+Movie{name=FAQs (2005), genres=Set(Drama)}
+Movie{name=Suffragette (2015), genres=Set(Drama)}
+Movie{name=War Room (2015), genres=Set(Drama)}
+Movie{name=The Danish Girl (2015), genres=Set(Drama)}
+Movie{name=The Dress (1996), genres=Set(Comedy, Drama)}
+Movie{name=Beasts of No Nation (2015), genres=Set(Drama, War)}
+Movie{name=Contracted: Phase II (2015), genres=Set(Drama, Horror, Thriller)}
+Movie{name=Tiger Orange (2014), genres=Set(Drama)}
+Movie{name=Female on the Beach (1955), genres=Set(Thriller, Romance, Drama, Mystery, Crime)}
+Movie{name=Romeos (2011), genres=Set(Drama)}
+Movie{name=Everest (2015), genres=Set(Adventure, Drama, Thriller)}
+Movie{name=Pawn Sacrifice (2015), genres=Set(Drama)}
+Movie{name=Burnt (2015), genres=Set(Drama)}
+Movie{name=Ashby (2015), genres=Set(Comedy, Drama)}
+Movie{name=Glen Campbell: I'll Be Me (2014), genres=Set(Documentary, Drama)}
+Movie{name=Bridge of Spies (2015), genres=Set(Drama, Thriller)}
+Movie{name=The Perfect Guy (2015), genres=Set(Drama, Thriller)}
+Movie{name=The Dressmaker (2015), genres=Set(Comedy, Drama, Thriller)}
+Movie{name=Concussion (2015), genres=Set(Drama)}
+Movie{name=Plan B (2009), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Land of Storms (2014), genres=Set(Drama)}
+Movie{name=Naomi and Ely's No Kiss List (2015), genres=Set(Comedy, Drama, Romance)}
+Movie{name=Creed (2015), genres=Set(Drama)}
+Movie{name=Bana Masal Anlatma (2015), genres=Set(Comedy, Drama)}
+Movie{name=Thou Gild'st the Even (2013), genres=Set(Drama, Fantasy, Romance)}
+Movie{name=İtirazım Var (2014), genres=Set(Action, Crime, Drama)}
+Movie{name=Manson Family Vacation (2015), genres=Set(Comedy, Drama, Thriller)}
+Movie{name=Pek Yakında (2014), genres=Set(Action, Comedy, Drama)}
+Movie{name=Truth (2015), genres=Set(Drama)}
+Movie{name=Big Short, The (2015), genres=Set(Drama)}
+Movie{name=Swelter (2014), genres=Set(Action, Drama, Thriller)}
+Movie{name=Sherlock: The Abominable Bride (2016), genres=Set(Thriller, Drama, Mystery, Crime, Action)}
+Movie{name=Me Before You (2016), genres=Set(Drama, Romance)}
+Movie{name=Miles Ahead (2016), genres=Set(Drama)}
+Movie{name=The Neon Demon (2016), genres=Set(Drama, Horror, Mystery)}
+Movie{name=Hello, My Name Is Doris (2016), genres=Set(Drama)}
+Movie{name=Sing Street (2016), genres=Set(Drama)}
+Movie{name=The Huntsman Winter's War (2016), genres=Set(Action, Adventure, Drama, Fantasy)}
+Movie{name=Money Monster (2016), genres=Set(Drama, Thriller)}
+Movie{name=I Am Wrath (2016), genres=Set(Action, Crime, Drama, Thriller)}
+Movie{name=The Shallows (2016), genres=Set(Drama, Thriller)}
+Movie{name=The Handmaiden (2016), genres=Set(Drama, Romance, Thriller)}
+Movie{name=Approaching the Unknown (2016), genres=Set(Drama, Sci-Fi, Thriller)}
+Movie{name=Tallulah (2016), genres=Set(Drama)}
+Movie{name=Nerve (2016), genres=Set(Drama, Thriller)}
+Movie{name=Hell or High Water (2016), genres=Set(Crime, Drama)}
+Movie{name=Kingsglaive: Final Fantasy XV (2016), genres=Set(Animation, Fantasy, Drama, Sci-Fi, Adventure, Action)}
+Movie{name=Body (2015), genres=Set(Drama, Horror, Thriller)}
+Movie{name=The Last Brickmaker in America (2001), genres=Set(Drama)}
+Movie{name=Stranger Things, genres=Set(Drama)}
+Movie{name=Mohenjo Daro (2016), genres=Set(Adventure, Drama, Romance)}
